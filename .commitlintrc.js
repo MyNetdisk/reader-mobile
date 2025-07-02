@@ -14,6 +14,8 @@ module.exports = {
         'chore', // 构建/工具变更
         'perf', // 性能优化
         'revert', // 回滚提交
+        'build', // 构建相关
+        'ci', // 持续集成相关
       ],
     ],
     'subject-case': [0], // 取消 subject 首字母大写校验
